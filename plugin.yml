@@ -1,0 +1,17 @@
+main: io.github.simbiontesecurity.CrackPermissions
+name: CrackPermissions
+version: 1.0
+author: me
+description: A managent plugin
+commands:
+  crackpermissions:
+    description: An pene
+    usage: /crackpermissions
+    permission: crackpermissions.crack
+    permission-message: You don't have the crackpermissions.crack permission.
+permissions: 
+    crackpermissions.crack:
+         default: true
+   
+
+
